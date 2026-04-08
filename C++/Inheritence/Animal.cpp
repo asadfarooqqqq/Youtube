@@ -143,7 +143,6 @@ class Animal{
     d1.speak();
     d1.swim();
     d1.dive();
-    d1.eat();
     cout<<endl;
     return 0;
     }
