@@ -37,6 +37,7 @@ class Car{
 };
     int main(){
         Car c1("CIVIC",20000,2025);
+        
         c1.setSpeed(150);
         c1.setYear(2025);
         c1.display();
